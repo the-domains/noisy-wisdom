@@ -1,0 +1,14 @@
+layout_spectrum: 0.7660730553325266
+typography_spectrum: 0.36822253419086337
+color:
+  brandStrength: 0.034155887784436345
+  lightness: 0.810844563646242
+  saturation: 0.39675010344944894
+  rhythmicContrast: 0.5133251445367932
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: noisy wisdom
